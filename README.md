@@ -1,6 +1,6 @@
-👋 Hello, I'm [Siddhant], a passionate developer with a love for building robust, scalable, and maintainable software solutions.
+👋 Hello, I'm Siddhant, a passionate developer with a love for building robust, scalable, and maintainable software solutions.
 
-🚀 My journey in software development began [4 years ago] when I fell in love with the world of coding. Since then, I've focused my efforts on mastering Java and Spring Boot, becoming proficient in creating high-performance, enterprise-grade applications.
+🚀 My journey in software development began 4 years ago when I fell in love with the world of coding. Since then, I've focused my efforts on mastering Java and Spring Boot, becoming proficient in creating high-performance, enterprise-grade applications.
 
 💼 In my professional career, I've had the privilege of working on a diverse range of projects, including **Prepaid Wallet,Prepaid Card Management System**, where I honed my skills in:
 
