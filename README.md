@@ -15,7 +15,7 @@
 
 📫 Let's connect and discuss exciting opportunities or collaborate on meaningful projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/siddhantkamat). I'm always open to engaging with fellow developers, sharing experiences, and making the tech world a better place.
 
-🚗 Fun fact: When I'm not coding, you can find me exploring new places, enjoying the great outdoors, or experimenting with new recipes in the kitchen.
+🚗 Fun fact: When I'm not coding, you can find me exploring new places, or enjoying the great outdoors.
 
 ---
 
